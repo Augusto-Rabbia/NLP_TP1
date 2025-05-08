@@ -105,3 +105,9 @@ A lo largo del proyecto se desarrollaron distintas etapas de scraping, limpieza 
   - Se parte de una lista predefinida de videos sobre _Tiny Towns_
   - Se extraen las transcripciones disponibles en idiomas como español, inglés y neerlandés
   - Cada transcripción se guarda en un archivo `.txt` separado
+
+## Análisis de datos
+
+Luego, se realizó un análisis exploratorio de los datos obtenidos a través de gráficos con `Matplotlib`.
+
+Entre otros, los análisis incluyeron conteo de clases en dataframes, conteos de caracteres y palabras, conteo e interpretación de frases según su longitud, y análisis de datos según su origen y su idioma.
